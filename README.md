@@ -31,14 +31,17 @@ Total Days Completed: 2 / 90
 
 ## 📁 Folder Structure
 
+
+
 90DaysDSA/
 │
-├── Arrays/
-├── Strings/
-├── Recursion/
-├── LinkedList/
-├── Stack/
-└── Graph/
+├── Day1/
+│   └── LargestElementInArray.java
+│
+├── Day2/
+│   └── CheckAnArraySortedOrNot.java
+│
+└── README.md
 
 
 
