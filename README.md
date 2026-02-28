@@ -19,13 +19,14 @@ Consistency > Motivation 💪
 ---
 
 ## 📊 Progress Tracker
+Total Days Completed: 2 / 90
 
-| Day | Topic   | Problem                | Status |
-|-----|---------|------------------------|--------|
-| 1   | Arrays  | Second Largest Element | ✅     |
-| 2   |         |                         |       |
-| 3   |         |                         |       |
 
+| Day | Topic   | Problem                  | Status |
+|-----|---------|--------------------------|--------|
+| 1   | Arrays  | Second Largest Element   |  ✅   |
+| 2   | Arrays  | Check if Array is Sorted |  ✅   |
+| 3   | Arrays  | Reverse Array            |  ⏳    |
 ---
 
 ## 📁 Folder Structure
