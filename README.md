@@ -19,15 +19,16 @@ Consistency > Motivation 💪
 ---
 
 ## 📊 Progress Tracker
-Total Days Completed: 3 / 90
+Total Days Completed: 4 / 90
 
 
-| Day | Topic   | Problem                  | Status |
-|-----|---------|--------------------------|--------|
-| 1   | Arrays  | Second Largest Element   |  ✅   |
-| 2   | Arrays  | Check if Array is Sorted |  ✅   |
-| 3   | Arrays  | Reverse Array            |  ✅   |
-----------------------------------------------------
+| Day | Topic   | Problem                          | Status |
+|-----|---------|----------------------------------|--------|
+| 1   | Arrays  | Second Largest Element           |  ✅   |
+| 2   | Arrays  | Check if Array is Sorted         |  ✅   |
+| 3   | Arrays  | Reverse Array                    |  ✅   |
+| 4   | Arrays  | Remove Duplicates (Sorted Array) |  ✅   |
+------------------------------------------------------------
 
 ## 📁 Folder Structure
 
@@ -40,6 +41,7 @@ Total Days Completed: 3 / 90
 │
 ├── Day2/
 │   └── CheckAnArraySortedOrNot.java
+|
 │
 └── README.md
 
