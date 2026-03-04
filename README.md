@@ -29,6 +29,7 @@ Total Days Completed: 4 / 90
 | 3   | Arrays  | Reverse Array                    |  ✅   |
 | 4   | Arrays  | Remove Duplicates (Sorted Array) |  ✅   |
 | 5   | Arrays  | Cyclic Rotate Array by One       |  ✅   |
+| 6   | Arrays  | Move All Zeros to End            |  ✅   |
 ------------------------------------------------------------
 
 ## 📁 Folder Structure
