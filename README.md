@@ -19,7 +19,7 @@ Consistency > Motivation 💪
 ---
 
 ## 📊 Progress Tracker
-Total Days Completed: 4 / 90
+Total Days Completed: 7 / 90
 
 
 | Day | Topic   | Problem                          | Status |
@@ -30,6 +30,7 @@ Total Days Completed: 4 / 90
 | 4   | Arrays  | Remove Duplicates (Sorted Array) |  ✅   |
 | 5   | Arrays  | Cyclic Rotate Array by One       |  ✅   |
 | 6   | Arrays  | Move All Zeros to End            |  ✅   |
+| 7   | Arrays  | Missing Number in Array          |  ✅   |
 ------------------------------------------------------------
 
 ## 📁 Folder Structure
